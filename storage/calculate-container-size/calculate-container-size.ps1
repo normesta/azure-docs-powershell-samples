@@ -6,7 +6,7 @@
 #       (more than a couple hundred), use continuation tokens to retrieve
 #       the list of blobs.
 
-# these are for the storage account to be used
+# These are for the storage account to be used
 $resourceGroup = "bloblisttestrg"
 $storageAccountName = "contosobloblisttest"
 $containerName = "listtestblobs"
